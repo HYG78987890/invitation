@@ -51,10 +51,10 @@ const IndexPage = () => {
       </audio>
       <Title />
       <Greeting />
-      <Gallery />
+      {/* <Gallery /> */}
       <Location />
       <Quote />
-      <CongratulatoryMoney />
+      {/* <CongratulatoryMoney /> */}
       <Share />
       <Footer
         style={{

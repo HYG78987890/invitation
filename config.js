@@ -4,7 +4,7 @@ export const KAKAOTALK_SHARE_IMAGE =
   "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg";
 
 export const WEDDING_DATE = "2026년 01월 17일, 토요일 오후 1시 00분";
-export const WEDDING_LOCATION = "○○○웨딩, ○층 ○○홀";
+export const WEDDING_LOCATION = "경회루, 서울특별시 노원구 동일로 1005";
 
 export const GROOM_NAME = "○○○";
 export const GROOM_ACCOUNT_NUMBER = "○○은행 ***-***-******";
