@@ -39,7 +39,7 @@ const WeddingInvitation = styled.p`
 `;
 
 const GroomBride = styled.p`
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: bold;
   opacity: 0.9;
   margin-bottom: 16px;
@@ -54,10 +54,10 @@ const Title = () => {
   return (
     <Layout>
       <TitleWrapper>
-        <WeddingInvitation>산수연</WeddingInvitation>
+        <WeddingInvitation>&nbsp;</WeddingInvitation>
         <GroomBride>
           {/* {GROOM_NAME} &#38; {BRIDE_NAME} */}
-          {BRIDE_NAME} 어머니
+          {BRIDE_NAME} 여사님 산수연
         </GroomBride>
         <Schedule>
           {WEDDING_DATE}
