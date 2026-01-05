@@ -111,7 +111,7 @@ const Location = () => {
         <Title>지하철 이용시</Title>
         <br />
         <br />
-        6, 7호선 태릉입구역 하차 (도보 200m)
+        6, 7호선 태릉입구역 3번 출구 (도보 200m)
       </Content>
     </Wrapper>
   );

@@ -75,6 +75,8 @@ const Greeting = () => {
         <br />
         <br />
         자리를 빛내주시기 바랍니다.
+        <br />
+        <br />
       </Content>
       <GroomBride data-aos="fade-up">
         딸 조메리, 조진숙
