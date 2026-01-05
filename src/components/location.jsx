@@ -107,6 +107,8 @@ const Location = () => {
         <br />
         대정빌딩 지하 1층
         <br />
+        전화번호: 02-972-2774
+        <br />
         <br />
         <Title>지하철 이용시</Title>
         <br />
