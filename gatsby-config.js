@@ -1,7 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `weddingInvitation`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `송영자 어머님 산수연 `,
+    description: `초대합니다`,
+    author: `@user`,
+    image: `../assets/Thumb.png`,
+    siteUrl: `https://tourmaline-meerkat-5f90a8.netlify.app/`,
   },
-  plugins: ["gatsby-plugin-styled-components"]
+  plugins: ["gatsby-plugin-styled-components"],
 };

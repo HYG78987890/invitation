@@ -62,6 +62,7 @@ const IndexPage = () => {
           backgroundImage: `url(${GroovePaper})`,
           opacity: 0.6,
           textAlign: "center",
+          fontSize: "1.4rem",
         }}
       >
         Copyright © 2022 Shin Jooyoung

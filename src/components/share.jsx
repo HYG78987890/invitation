@@ -106,9 +106,9 @@ const Share = () => {
         plain
         style={{ marginTop: 0, marginBottom: 32 }}
       >
-        <Title>청첩장 공유하기</Title>
+        <Title>초대장 공유하기</Title>
       </Divider>
-      <KakaoTalkShareButton
+      {/* <KakaoTalkShareButton
         style={{ margin: 0 }}
         icon={<MessageFilled />}
         id="sendKakao"
@@ -116,13 +116,13 @@ const Share = () => {
         onClick={createKakaoButton}
       >
         카카오톡으로 공유하기
-      </KakaoTalkShareButton>
+      </KakaoTalkShareButton> */}
       <CopyToClipboard text={WEDDING_INVITATION_URL}>
         <LinkShareButton
           style={{ margin: 0 }}
           icon={<LinkOutlined />}
           size="large"
-          onClick={() => message.success("청첩장 링크가 복사되었습니다.")}
+          onClick={() => message.success("초대장 링크가 복사되었습니다.")}
         >
           링크로 공유하기
         </LinkShareButton>

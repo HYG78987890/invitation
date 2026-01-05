@@ -65,7 +65,7 @@ const Greeting = () => {
         사랑하고 존경하는 어머니
         <br />
         <br />
-        ㅇㅇㅇ님의 산수연을 맞이하여
+        송영자 어머니의 산수연을 맞이하여
         <br />
         <br />
         축하하는 자리를 마련하였습니다.
@@ -77,9 +77,15 @@ const Greeting = () => {
         자리를 빛내주시기 바랍니다.
       </Content>
       <GroomBride data-aos="fade-up">
-        장남 {GROOM_FATHER_NAME}
+        딸 조메리, 조진숙
         <br />
-        장녀 {BRIDE_FATHER_NAME}
+        사위 구중석, 최종원
+        <br />
+        손주 조민상
+        <br />
+        손녀 조은혜, 조은미
+        <br />
+        외손녀 구혜린,구혜원, 구지원
       </GroomBride>
     </Wrapper>
   );
