@@ -6,5 +6,8 @@ module.exports = {
     image: `/Thumb.png`,
     siteUrl: `https://tourmaline-meerkat-5f90a8.netlify.app/`,
   },
-  plugins: ["gatsby-plugin-styled-components"],
+  plugins: [
+    "gatsby-plugin-styled-components",
+    "gatsby-plugin-react-helmet", // <--- 추가
+  ],
 };
